@@ -5,7 +5,7 @@
 </td>
 <td valign="top" style="padding-left:20px">
 
-<h1>Hi, I'm Annu 👋</h1>
+Hi, I'm Annu 👋
 
 I'm a Data Science grad student at the **University of Maryland** with a background in Electrical Engineering and Physics from BITS Pilani. Before UMD, I spent two years at Synechron's AI Finlabs building agentic systems, fine-tuning language models, and making sense of messy data.
 
