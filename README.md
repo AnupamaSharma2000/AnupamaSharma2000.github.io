@@ -30,6 +30,10 @@ I'm drawn to problems at the intersection of machine learning and the real world
 | [**Multi-Agent RAG System**](https://github.com/AnupamaSharma2000/MultiAgent_RAG) | Production-ready RAG pipeline with semantic caching, token optimization, and a live monitoring dashboard (FastAPI + LangGraph) |
 | [**Floor Plan Symbol Detector**](https://github.com/AnupamaSharma2000) | Computer vision pipeline for architectural drawings — fine-tuned Faster R-CNN on the CubiCasa5K dataset, achieving mAP@0.5 of 0.54 |
 | [**YRBSS Survey Analysis**](https://github.com/AnupamaSharma2000/yrbs_sexual_minority_analysis) | Statistical analysis of CDC national survey data (N ≈ 20,100) with post-stratification reweighting for sexual minority populations |
+| [**RL Playground**](https://github.com/AnupamaSharma2000/rl-playground) | Interactive dashboard for learning Reinforcement Learning from first principles — live MDP Visualizer, Gridworld with Value & Policy Iteration, Bellman equation explorer |
+
+### RL Playground — Interactive RL Learning Dashboard
+[![RL Playground](https://raw.githubusercontent.com/AnupamaSharma2000/AnupamaSharma2000/main/rl-playground-thumbnail.png)](https://anupamaSharma2000.github.io/rl-playground/)
 
 ---
 
