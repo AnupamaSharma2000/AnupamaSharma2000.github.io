@@ -6,7 +6,6 @@
 </ul>
 </div>
 
-<img align="right" width="155" src="https://raw.githubusercontent.com/AnupamaSharma2000/AnupamaSharma2000/main/profile.jpeg" alt="Anupama Sharma" />
 I'm a Data Science grad student at the University of Maryland with a background in Electrical Engineering and Physics from BITS Pilani. Before UMD, I spent two years at Synechron's AI Finlabs building agentic systems, fine-tuning language models, and making sense of messy data.
 
 I'm drawn to problems at the intersection of machine learning and the real world, whether that's improving how models reason, making AI systems more reliable, or turning complex datasets into something meaningful.
