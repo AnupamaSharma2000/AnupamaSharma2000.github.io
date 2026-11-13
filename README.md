@@ -6,7 +6,7 @@
 </td>
 <td valign="top">
 
-# Anupama Sharma
+
 
 **Data Scientist · ML Engineer · Researcher**
 
