@@ -1,90 +1,84 @@
-<div id="user-content-toc">
-<ul style="list-style: none;">
-<summary>
-<h1>About me:</h1>
-</summary>
-</ul>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/quiet-motion-dark.gif">
+  <img src="assets/quiet-motion-light.gif" alt="Subtle animated line illustration" width="100%">
+</picture>
 
-<table>
-<tr>
-<td width="180" valign="top">
-<img src="profile.jpeg" width="160" style="border-radius: 50%;" alt="Anupama Sharma"/>
-</td>
-<td valign="top">
+# Anupama Sharma
 
-I'm a Data Science grad student at the University of Maryland with a background in Electrical Engineering and Physics from BITS Pilani. Before UMD, I spent two years at Synechron's AI Finlabs building agentic systems, fine-tuning language models, and making sense of messy data.
+**Data Scientist · ML Engineer · Researcher**
 
-I'm drawn to problems at the intersection of machine learning and the real world — whether that's improving how models reason, making AI systems more reliable, or turning complex datasets into something meaningful.
+Data Science @ UMD | AI/ML @ Synechron | M.Sc. Physics | B.E. Electronics and Electrical Engineering @ BITS Pilani
 
-📍 College Park, MD &nbsp;|&nbsp; 📬 <a href="mailto:sharma25@umd.edu">sharma25@umd.edu</a> &nbsp;|&nbsp; 🔗 <a href="https://www.linkedin.com/in/anupama-sharma22/">LinkedIn</a>
+**Interests:** Climate Science · AI Safety · Big Data · Reinforcement Learning
 
-</td>
-</tr>
-</table>
+[Projects](https://anupamasharma2000.github.io/portfolio/) · [Publications](#publications--writing) · [LinkedIn](https://www.linkedin.com/in/anupama-sharma22/) · [Email](mailto:sharma25@umd.edu)
 
 ---
 
-## What I'm Working On
+<details>
+<summary><strong>Experience</strong> (click to expand)</summary>
 
-- **MS in Data Science @ UMD** (2025–2027) — coursework in Machine Learning Principles, Big Data Systems, Algorithms for Data Science, Data Representation & Modeling, and Linear Algebra & Statistical Methods
-- Research on agentic AI, RAG systems, Data Science agents, Reinforcement Learning, weather forecasting, and responsible AI evaluation
-- Selected for the **U21 Sustainable Policy Leadership Summer School** (McMaster University, 2026) — one of ~60 participants globally
+<br>
 
----
+**Graduate Teaching Assistant | University of Maryland, Robert H. Smith School of Business**  
+*Aug 2026 - Dec 2026*
 
-## A Few Things I've Built
+Support instruction in Big Data and AI Infrastructure (BMGT 401) and AI Augmented Data Processing and Analysis (BUDT 704), including Python, data analysis, and data-driven business applications.
 
-| Project | What it does |
-|---|---|
-| [**Multi-Agent RAG System**](https://github.com/AnupamaSharma2000/MultiAgent_RAG) | Production-ready RAG pipeline with semantic caching, token optimization, and a live monitoring dashboard (FastAPI + LangGraph) |
-| [**DS Agent Benchmark Comparison**](https://github.com/AnupamaSharma2000/ds-agent-benchmark) | Comparative evaluation of 4 data science agents across 4 benchmark datasets — measuring task completion, code correctness, and reasoning quality at scale (PySpark + Airflow) |
-| [**Floor Plan Symbol Detector**](https://github.com/AnupamaSharma2000/floor-plan-symbol-detector) | Computer vision pipeline for architectural drawings — fine-tuned Faster R-CNN on the CubiCasa5K dataset, achieving mAP@0.5 of 0.54 |
-| [**YRBSS Survey Analysis**](https://github.com/AnupamaSharma2000/yrbs_sexual_minority_analysis) | Statistical analysis of CDC national survey data (N ≈ 20,100) with post-stratification reweighting for sexual minority populations |
-| [**RL Playground**](https://github.com/AnupamaSharma2000/rl-playground) | Interactive dashboard for learning Reinforcement Learning from first principles — live MDP Visualizer, Gridworld with Value & Policy Iteration, Bellman equation explorer |
+**Software Engineering Intern | Ilumina Financial**  
+*Jun 2026 - Aug 2026*
 
-### RL Playground — Interactive RL Learning Dashboard
-[![RL Playground](https://raw.githubusercontent.com/AnupamaSharma2000/AnupamaSharma2000/main/rl-playground-thumbnail.png)](https://anupamaSharma2000.github.io/rl-playground/)
+Built a secure, multi-tenant document portal using Next.js, TypeScript, Supabase, and PostgreSQL. Implemented Row-Level Security and resilient Google Drive folder provisioning with failure recovery.
 
----
+**ML Research Associate | Synechron Technologies, Finlabs**  
+*Jul 2024 - Jul 2025*
 
-## Experience
+Fine-tuned Qwen2 for document extraction with LoRA, evaluated LangGraph agents using node-level criteria, and built a FastAPI service for PostgreSQL DDL validation.
 
-**Jr. Associate, ML Research — Synechron Technologies, Finlabs** *(July 2024 – July 2025)*
+**ML Research Intern | Synechron Technologies, Finlabs**  
+*Jul 2023 - Jun 2024*
 
-Focused on production-grade ML systems for the financial domain. Fine-tuned the **Qwen2 Vision-Language Model** using LoRA and 4-bit quantization for financial document extraction, improving F1 from 0.68 to 0.85 on a manually-labeled test set. Trained **RoBERTa-based embeddings** combined with XGBoost and Random Forest classifiers for customer segmentation across 50K records, integrating the pipeline into a production demo with stratified cross-validation. Also built a **FastAPI microservice** for automated PostgreSQL DDL validation — catching referential integrity and primary key errors before production deployment — and contributed to the codebase for an in-house agentic AI framework, including technical documentation.
+Developed a RAG document QA pipeline with LangChain, ChromaDB, and Streamlit. Benchmarked Donut, Llama 3, and Mistral 7B against ground-truth extraction results.
 
-*Skills developed: LLM fine-tuning (LoRA, quantization), vision-language models, ensemble classifiers, FastAPI, PostgreSQL, agentic systems, technical documentation*
+**Teaching Assistant, Electromagnetic Theory | BITS Pilani**  
+*Aug 2022 - Dec 2022*
 
----
+Led tutorials and supported labs for more than 80 students, preparing instructional materials and assessment rubrics.
 
-**AI/ML Intern — Synechron Technologies, Finlabs** *(July 2023 – June 2024)*
+**Marketing & Outreach Intern | Cuemath**  
+*May 2021 - Aug 2021*
 
-Built foundational agentic and RAG infrastructure from the ground up. Developed **multi-agent workflows** using LangGraph and Autogen with locally hosted open-source models via Ollama, writing evaluation criteria and performance metrics per agent node to track output consistency and identify failure modes. Built an **end-to-end document QA pipeline** using ChromaDB, LangChain, and Streamlit to extract structured insights from unstructured financial documents at scale. Presented findings to the broader team and maintained reproducible documentation throughout.
+Prepared data-driven reports across five or more international markets and supported targeted outreach.
 
-*Skills developed: multi-agent orchestration, RAG pipelines, LangGraph, LangChain, ChromaDB, Streamlit, LLM evaluation, vector databases*
+</details>
 
----
+## Education
+
+**University of Maryland, College Park**  
+M.S. Data Science, 2025 - 2027 · GPA: 3.975
+
+**BITS Pilani, Goa**  
+M.Sc. Physics (Hons.) and B.E. Electronics and Electrical Engineering, 2019 - 2024
+
+## Awards
+
+- **Winner, Best Use of SpacetimeDB**, HopHacks (Sep 2026)
+- **Winner, Best Use of Gemini**, GDSC HackDay Build With AI (May 2026)
 
 ## Skills
 
-**Languages** &nbsp; Python · R · SQL · C · HTML
+**Languages:** Python · R · SQL · C++ · Java  
+**AI & ML:** PyTorch · scikit-learn · LangChain · LangGraph · RAG · LoRA fine-tuning · LLM evaluation  
+**Data Engineering:** PySpark · Airflow · ETL · pandas · NumPy · SciPy  
+**Backend & MLOps:** FastAPI · REST APIs · Docker · CI/CD (GitHub Actions)  
+**Databases & Tools:** PostgreSQL · ChromaDB · Pinecone · Streamlit
 
-**ML / AI** &nbsp; PyTorch · TensorFlow · Scikit-learn · LangChain · LangGraph · Autogen · FastAPI · spaCy · NLTK · LLM Fine-Tuning (LoRA) · Diffusion Models · OpenCV · Embeddings
+## Publications & Writing
 
-**Data & Big Data** &nbsp; PySpark · Airflow · Pandas · NumPy · SciPy · Matplotlib · Power BI
-
-**Tools & Platforms** &nbsp; Git · Docker · Weights & Biases · ChromaDB · MongoDB · PostgreSQL · AWS · GCP
-
-**Interests** &nbsp; Generative AI · Computer Vision · Agentic Systems · Statistical Modeling · Responsible AI
-
----
-
-## Writing & Research
-
-- [**Towards Evaluating Robustness of Prompt Adherence in Text-to-Image Models**](https://arxiv.org/abs/2507.08039) — Co-authored evaluation of prompt faithfulness across 5 state-of-the-art text-to-image models; designed a VAE-based evaluation framework and tracked all experiments in Weights & Biases (2024–2025)
-- [**AI Hallucinations: Why Bots Make Up Information**](https://www.synechron.com/insight/ai-hallucinations-why-bots-make-information) — Published on Synechron's platform; explains LLM hallucinations for a non-technical audience (2024)
+- [**Towards Evaluating Robustness of Prompt Adherence in Text-to-Image Models**](https://arxiv.org/abs/2507.08039) (2025). Research on spatial grounding and prompt fidelity across five text-to-image models using a VAE-based evaluation framework.
+- [**AI Hallucinations: Why Bots Make Up Information**](https://www.synechron.com/insight/ai-hallucinations-why-bots-make-information) (2024). An accessible overview of why LLMs hallucinate and how those failures can be understood and detected.
 
 ---
 
-*Always open to research collaborations, interesting problems, and good conversations.*
+Open to research collaborations and interesting technical problems.  
+[sharma25@umd.edu](mailto:sharma25@umd.edu) · [GitHub](https://github.com/AnupamaSharma2000) · [LinkedIn](https://www.linkedin.com/in/anupama-sharma22/)
