@@ -15,7 +15,6 @@
 <p><strong>Interests:</strong> Climate Science · AI Safety · Big Data · Reinforcement Learning</p>
 
 <p>
-<a href="https://anupamasharma2000.github.io/portfolio/">Projects</a> ·
 <a href="https://github.com/AnupamaSharma2000">GitHub</a> ·
 <a href="https://www.linkedin.com/in/anupama-sharma22/">LinkedIn</a> ·
 <a href="mailto:sharma25@umd.edu">Email</a>
