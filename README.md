@@ -2,19 +2,24 @@
 <table>
 <tr>
 <td width="180" valign="top">
-<img src="profile.jpeg" width="160" style="border-radius: 50%;" alt="Anupama Sharma"/>
+<img src="profile.jpeg" width="160" alt="Anupama Sharma"/>
 </td>
 <td valign="top">
 
+<h1>Anupama Sharma</h1>
 
+<p><strong>Data Scientist · ML Engineer · Researcher</strong></p>
 
-**Data Scientist · ML Engineer · Researcher**
+<p>Data Science @ UMD | AI/ML @ Synechron | M.Sc. Physics | B.E. Electronics and Electrical Engineering @ BITS Pilani</p>
 
-Data Science @ UMD | AI/ML @ Synechron | M.Sc. Physics | B.E. Electronics and Electrical Engineering @ BITS Pilani
+<p><strong>Interests:</strong> Climate Science · AI Safety · Big Data · Reinforcement Learning</p>
 
-**Interests:** Climate Science · AI Safety · Big Data · Reinforcement Learning
-
-[Projects](https://anupamasharma2000.github.io/portfolio/) · [GitHub](https://github.com/AnupamaSharma2000) · [LinkedIn](https://www.linkedin.com/in/anupama-sharma22/) · [Email](mailto:sharma25@umd.edu)
+<p>
+<a href="https://anupamasharma2000.github.io/portfolio/">Projects</a> ·
+<a href="https://github.com/AnupamaSharma2000">GitHub</a> ·
+<a href="https://www.linkedin.com/in/anupama-sharma22/">LinkedIn</a> ·
+<a href="mailto:sharma25@umd.edu">Email</a>
+</p>
 
 </td>
 </tr>
